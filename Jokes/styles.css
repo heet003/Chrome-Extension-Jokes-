@@ -1,0 +1,17 @@
+body{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 243, 187);
+    display: flex;
+    justify-content: center;
+}
+
+
+
+#jokepara {
+    padding: 10px;
+    margin: 10px 10px;
+    border: 1px solid rgb(176, 173, 173);
+    color:rgb(33, 11, 231);
+    font-size: medium;
+}
